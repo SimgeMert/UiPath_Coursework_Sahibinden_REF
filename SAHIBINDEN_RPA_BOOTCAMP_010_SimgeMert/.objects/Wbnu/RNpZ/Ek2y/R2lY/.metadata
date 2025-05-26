@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Extract Table Data-Deneme",
+  "Type": "Element",
+  "Id": "R2lY2_5yeUaApel6d-kjtw",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/R2lY2_5yeUaApel6d-kjtw",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/Ek2yBIw1dEGb4fomwSmXfw",
+  "Created": "2025-01-14T16:13:39.9416858Z",
+  "Updated": "2025-01-14T16:13:39.9416858Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

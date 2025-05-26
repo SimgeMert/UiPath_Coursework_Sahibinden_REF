@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UEaWaA11okKoAQTVsu5Ibw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/satilik/istanbul-uskudar" CVScreenId="4fcb8064-9e5e-40f8-bf74-79d9fab79cc4" DesignTimeRectangle="389, 266, 48, 14" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='searchContainer' tag='SPAN' aaname='Anasayfa' /&gt;" Guid="35219045-65c5-4bf9-bf57-5c9e12b06c24" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.sahibinden.com*' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="82d8b87dc4fc27278dbb48129b73510c.png" xmlns="">0qxcYmLt5QkmFwM3TF7-Pqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

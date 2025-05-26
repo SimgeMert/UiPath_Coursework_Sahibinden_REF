@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome sahibinden.com - Türkiye'nin Online İl",
+  "Type": "App",
+  "Id": "D_5jx2Mr302SwWYm_AZe0g",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/D_5jx2Mr302SwWYm_AZe0g",
+  "Created": "2025-01-16T06:44:44.2804285Z",
+  "Updated": "2025-01-16T06:44:44.2804285Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

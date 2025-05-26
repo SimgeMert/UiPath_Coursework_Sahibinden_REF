@@ -1,0 +1,47 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_BrowserMainLink&Sequence_96",
+        "variable1&Sequence_96",
+        "ExtractDataTable&Sequence_5",
+        "DT_FilterDatas&Sequence_5",
+        "index&Sequence_5",
+        "str_ResultExcelPath&Sequence_5",
+        "DT_NoListing&Sequence_5",
+        "str_Il_2&Sequence_59",
+        "str_Ilce_2&Sequence_59",
+        "str_IlanTuru_2&Sequence_59",
+        "int_MinTutar_2&Sequence_59",
+        "int_MaxTutar_2&Sequence_59",
+        "int_TotalIlan_2&Sequence_59",
+        "str_FilterLink&Sequence_59",
+        "totalSatır&Sequence_71",
+        "deneme_DT&Sequence_71",
+        "int_MaxRow&Sequence_71",
+        "str_Il&Sequence_94",
+        "str_Ilce&Sequence_94",
+        "str_IlanTuru&Sequence_94",
+        "int_MinTutar&Sequence_94",
+        "int_MaxTutar&Sequence_94",
+        "int_TotalIlan&Sequence_94",
+        "totalSatır&Sequence_31",
+        "deneme_DT&Sequence_31",
+        "int_MaxRow&Sequence_31"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

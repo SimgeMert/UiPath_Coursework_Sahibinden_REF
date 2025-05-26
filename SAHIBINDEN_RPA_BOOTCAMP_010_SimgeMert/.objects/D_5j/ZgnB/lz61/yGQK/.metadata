@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tüm Çerezleri Reddet",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "yGQKpAHUakeMSbNxnGtjQg",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/yGQKpAHUakeMSbNxnGtjQg",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/lz61PfZZDkWuy9LGWwVlZQ",
+  "Created": "2025-01-16T08:31:42.56412Z",
+  "Updated": "2025-01-16T08:31:42.56412Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Click Filtreleme Butonu",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "olbaNpTSoUSczVDyD-LAzQ",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/olbaNpTSoUSczVDyD-LAzQ",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/Ek2yBIw1dEGb4fomwSmXfw",
+  "Created": "2025-01-13T22:08:12.1135263Z",
+  "Updated": "2025-01-13T22:08:47.0047758Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

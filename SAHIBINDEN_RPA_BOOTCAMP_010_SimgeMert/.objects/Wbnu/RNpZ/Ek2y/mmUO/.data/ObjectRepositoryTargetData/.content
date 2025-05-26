@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9aVUY8HwMUKT6mCWvFGMcQ" Reference="auXwfzRhb0aKfhx0TsYAoQ/mmUOnLhHEkKdWaT-Cee6rw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com" CVScreenId="354e9246-31e3-4aea-8bca-96adb80ffa8c" DesignTimeRectangle="437, 734, 36, 16" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='                             Konut' parentid='container' tag='A' href='/kategori/emlak-konut' uipath-html-title='Konut' /&gt;" Guid="3abab433-fdc2-4a21-bbf8-524ca99774b9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='sahibinden.com - Türkiye&amp;apos;nin Online İlan ve Alışveriş Sitesi' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3d6c640ba7c70783e95714320c11a031.png" xmlns="">0MsiyB7Ol4EaeOdn2oouIUg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

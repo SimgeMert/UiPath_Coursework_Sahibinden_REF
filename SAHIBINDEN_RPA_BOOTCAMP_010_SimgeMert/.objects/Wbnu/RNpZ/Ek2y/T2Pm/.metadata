@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Type Into Max Tutar",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "T2PmfwKxCECobO9W6E4hYQ",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/T2PmfwKxCECobO9W6E4hYQ",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/Ek2yBIw1dEGb4fomwSmXfw",
+  "Created": "2025-01-13T21:33:49.0090642Z",
+  "Updated": "2025-01-13T21:35:40.7599349Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

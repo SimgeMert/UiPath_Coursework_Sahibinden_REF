@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome sahibinden.com - Türkiye'nin Online İlan ve Alışveriş Sitesi",
+  "Type": "App",
+  "Id": "Wbnu14WErEGgVAut_MnFqA",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/Wbnu14WErEGgVAut_MnFqA",
+  "Created": "2025-01-13T18:43:33.1831107Z",
+  "Updated": "2025-01-13T18:43:33.1831107Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

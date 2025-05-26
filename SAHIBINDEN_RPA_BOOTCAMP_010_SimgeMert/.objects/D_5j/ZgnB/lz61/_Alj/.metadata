@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Check App State Çerezler Pop-Up",
+  "Type": "Element",
+  "Id": "_AljhOsz80OUe94rK6eAUg",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/_AljhOsz80OUe94rK6eAUg",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/lz61PfZZDkWuy9LGWwVlZQ",
+  "Created": "2025-01-16T08:30:46.9902412Z",
+  "Updated": "2025-01-16T08:30:46.9902412Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "sahibinden.com(1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "jfmYWGpC9UeXWSwXOz98qw",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/jfmYWGpC9UeXWSwXOz98qw",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/lz61PfZZDkWuy9LGWwVlZQ",
+  "Created": "2025-01-16T08:54:54.5599404Z",
+  "Updated": "2025-01-16T08:54:54.5599404Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

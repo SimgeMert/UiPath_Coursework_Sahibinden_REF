@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome sahibinden.com - Türkiye'nin Online İl",
+  "Type": "Screen",
+  "Id": "JPQW_hV_IEijlAlcRSsPVQ",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/JPQW_hV_IEijlAlcRSsPVQ",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/RNpZdJqhckGqKv9ndbvuqA",
+  "Created": "2025-01-16T05:56:49.4835702Z",
+  "Updated": "2025-01-16T05:56:49.4835702Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

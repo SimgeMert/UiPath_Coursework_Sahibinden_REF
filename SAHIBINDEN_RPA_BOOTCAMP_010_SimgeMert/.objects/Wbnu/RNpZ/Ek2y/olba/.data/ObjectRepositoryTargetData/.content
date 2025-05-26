@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tIiPGhjENUSr3fidUFy4tQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/satilik" CVScreenId="5769d324-3e6f-4df9-9ed9-13878626430a" DesignTimeRectangle="399, 961, 170, 38" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Ara' parentid='searchResultsSearchForm' tag='BUTTON' innertext='Ara' /&gt;" Guid="6342a446-207c-4347-a207-b4b1a21843e9" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.sahibinden.com/satilik' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="03389e733b8f42af0f60dcf044fa272b.png" xmlns="">0-Xdk1Nxgu0iveglr0DG7EA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

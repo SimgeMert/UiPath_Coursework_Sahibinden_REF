@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XXji2zLff0OTsbub4CG-mQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com" CVScreenId="891051e1-66a0-4ae7-8eda-ba3a2e3eab7c" DesignTimeRectangle="165, 59, 1545, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='sahibinden.com - Türkiye&amp;apos;nin Online İlan ve Alışveriş Sitesi - G*' role='pane' /&gt;&lt;ctrl name='Adres ve arama çubuğu' role='editable text' /&gt;" Guid="323c24c4-2534-4e8a-918b-768341a07f82" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='sahibinden.com - Türkiye&amp;apos;nin Online İlan ve Alışveriş Sitesi - G*' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6ef08ad22ba423cc92cfcbfa8b29cda8.png" xmlns="">06SEn5tOYakexBgFAIY2nCQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

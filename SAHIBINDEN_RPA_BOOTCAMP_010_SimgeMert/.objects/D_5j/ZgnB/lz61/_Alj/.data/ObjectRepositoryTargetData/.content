@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HSoj-iOP0UWvQze137sIUg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik-daire/adiyaman-kahta" DesignTimeRectangle="400, 878, 1120, 162" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl class='ot-sdk-row' parentid='onetrust-banner-sdk' tag='DIV' visibleinnertext='İnternet sitemizin çalışması, analitik çalışmaların yürütülmesi ve tercihleriniz doğrultusunda sitenin kişiselleştirilmesi için çerezler kullanmaktayız. Ayrıca açık rıza vermeniz halinde size yönelik reklam/pazarlama faaliyetlerinin gerçekleştirilmesi kapsamında birinci ve üçüncü taraf çerezler kullanılacaktır.&amp;#xA;&amp;#xA;Çerezlere dair tercihlerinizi panelden yönetebilir veya detaylı bilgi için Çerez Aydınlatma Metni’ni inceleyebilirsiniz.&amp;#xA;&amp;#xA;Çerez Tercihlerimi Yönet&amp;#xA;Tüm Çerezleri Reddet&amp;#xA;Tüm Çerezleri Kabul Et' /&gt;" Guid="11359a74-21d3-47a6-9b07-1b9d8c3a3063" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.sahibinden.com/kiralik-daire/adiyaman-kahta?price_min=10000&amp;amp;price_max=50000' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6c55fa7cd2703bf2030593e5235aba12.png" xmlns="">0ysdOJg-TJUucMyIeCjgfZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

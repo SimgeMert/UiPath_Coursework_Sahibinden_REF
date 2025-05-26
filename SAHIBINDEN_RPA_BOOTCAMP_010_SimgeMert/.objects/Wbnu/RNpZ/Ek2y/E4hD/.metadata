@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Click 'Ara'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "E4hDZzcqA0WI8ACWFeJ_aw",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/E4hDZzcqA0WI8ACWFeJ_aw",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/Ek2yBIw1dEGb4fomwSmXfw",
+  "Created": "2025-01-13T19:18:03.0455133Z",
+  "Updated": "2025-01-13T21:27:48.6577801Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

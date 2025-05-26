@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="b2lN6ymnJkacKUkDrRFd4A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kategori/emlak-konut" CVScreenId="92905e2e-a91b-49b9-89e8-909fab23b466" CvElementArea="693, 346, 78, 32" CvType="InputBox" DesignTimeRectangle="694, 346, 77, 33" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="62731798-b90b-4878-a862-89090ad0fd81" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Konut Fiyatları ve Emlak İlanları sahibinden.com&amp;apos;da' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="92905e2e-a91b-49b9-89e8-909fab23b466" CvTextArea="701, 356, 36, 11" CvTextArgument="Min TL" CvType="Text" DesignTimeRectangle="701, 356, 36, 11" ElementType="Text" Guid="25294765-9c7f-471a-b8e7-be14f7f51c5c" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ac4838924b27ad74752ec0e4d50d9c59.png" xmlns="">01AmJO71f40m0FedOnCKakg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

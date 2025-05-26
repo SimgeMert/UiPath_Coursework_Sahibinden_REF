@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IW0Fj6Cylk2SFDaGgtnKwQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/satilik" CVScreenId="523a9cec-001c-4971-b4db-1841526243f3" DesignTimeRectangle="399, 463, 170, 38" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Ara' parentid='searchResultsSearchForm' tag='BUTTON' /&gt;" Guid="bae9c95f-a826-452f-a389-0c122aea1c28" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Satılık Ev Fiyatları sahibinden.com&amp;apos;da' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="136048628e61299bd9ab71adf58426e8.png" xmlns="">0xi1F1d69WEyks6Pwsc3puQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

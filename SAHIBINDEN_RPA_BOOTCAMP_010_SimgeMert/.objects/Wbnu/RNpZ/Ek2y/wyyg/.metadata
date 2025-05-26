@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Min TL",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "wyygFc1A3EaANIOLsySA5A",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/wyygFc1A3EaANIOLsySA5A",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/Ek2yBIw1dEGb4fomwSmXfw",
+  "Created": "2025-01-16T06:54:18.9394753Z",
+  "Updated": "2025-01-16T06:54:18.9394753Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

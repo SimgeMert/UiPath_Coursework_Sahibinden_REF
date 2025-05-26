@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Arama filtrelerine uygu…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "X9wGVlYzlUeSL4aNVl0QZw",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/X9wGVlYzlUeSL4aNVl0QZw",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/Ek2yBIw1dEGb4fomwSmXfw",
+  "Created": "2025-01-13T22:11:32.6435598Z",
+  "Updated": "2025-01-13T22:11:32.6435598Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

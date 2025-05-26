@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pPhvuNIg0keLeips_MjQDg" Reference="auXwfzRhb0aKfhx0TsYAoQ/T2PmfwKxCECobO9W6E4hYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kategori/emlak-konut" CVScreenId="b1ad7f91-c180-44eb-b222-460d25764e4c" DesignTimeRectangle="786, 346, 77, 32" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='maxPrice' tag='INPUT' placeholder='Max TL' type='text' /&gt;" Guid="f28a3fc8-1962-4e2e-8699-561890de3fa1" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.sahibinden.com/kategori/emlak-konut' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="41847dd9f5abdaddcec2e0da1b08bd53.png" xmlns="">0YgWpluh9bkmRYf7B9SuMGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

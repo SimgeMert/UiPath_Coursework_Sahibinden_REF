@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Select Item IlceData",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "1zoRcvupRECd0qFwf1mcwA",
+  "Reference": "auXwfzRhb0aKfhx0TsYAoQ/1zoRcvupRECd0qFwf1mcwA",
+  "ParentRef": "auXwfzRhb0aKfhx0TsYAoQ/Ek2yBIw1dEGb4fomwSmXfw",
+  "Created": "2025-01-13T21:01:17.916121Z",
+  "Updated": "2025-01-13T21:27:37.3746245Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X9o1l8F3mEq31IwqEHczVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/satilik" CVScreenId="b6f94be1-5a14-4e90-a683-701c2806aa39" DesignTimeRectangle="716, 422, 636, 20" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='SPAN' visibleinnertext='Arama filtrelerine uygun ilan bulunamadı.' /&gt;" Guid="2ef684ba-3fef-4e23-b623-1758620b64cf" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.sahibinden.com/satilik/adiyaman-kahta?price_min=10000&amp;amp;price_max=50000' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1505c2c4c011529164d70ad748411fcf.png" xmlns="">0t7b0g9gcRUKmfE-cjVXA3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
